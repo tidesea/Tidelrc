@@ -1,7 +1,7 @@
 {
-  "name": "海风歌词",
-  "short_name": "海风歌词",
-  "description": "SEAWIND · 海风歌词",
+  "name": "潮词",
+  "short_name": "潮词",
+  "description": "Tidelrc · 潮词",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#07131a",
